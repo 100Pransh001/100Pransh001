@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=100Pransh001&theme=github-dark&hide_border=true" />
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=100Pransh001&theme=github_dark" />
 
 <br>
 
