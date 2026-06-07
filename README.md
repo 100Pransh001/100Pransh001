@@ -50,6 +50,10 @@ Here are some ideas to get you started:
 
 <img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=100Pransh001&theme=github_dark" />
 
+<br>
+
+<img width="82%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&layout=compact&langs_count=10" />
+
 </div>
 
 ## 🏆 GitHub Trophies
