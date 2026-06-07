@@ -43,12 +43,25 @@ Here are some ideas to get you started:
 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=100Pransh001&show_icons=true&theme=github_dark_dimmed" height="180em"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=100Pransh001&layout=compact&theme=github_dark_dimmed" height="180em"/>
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=100Pransh001&show_icons=true&theme=github_dark_dimmed"
+    height="200"
+    width="500"
+  />
+
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=100Pransh001&layout=compact&theme=github_dark_dimmed"
+    height="200"
+    width="350"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=100Pransh001&theme=github-dark-blue" />
+  <img
+    src="https://streak-stats.demolab.com?user=100Pransh001&theme=github-dark-blue"
+    height="180"
+    width="850"
+  />
 </p>
 
 ## 🏆 GitHub Trophies
