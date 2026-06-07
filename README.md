@@ -44,13 +44,23 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img width="85%" src="https://streak-stats.demolab.com/?user=100Pransh001&theme=github_dark_dimmed&hide_border=false" />
+<img width="82%" src="https://streak-stats.demolab.com/?user=100Pransh001&theme=github_dark_dimmed&hide_border=false" />
 
-<br>
+<table>
+<tr>
+<td width="60%">
 
-<img width="52%" src="https://github-readme-stats.shion.dev/api?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false" />
-&nbsp;
-<img width="33%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&layout=compact&langs_count=10" />
+<img src="https://github-readme-stats.shion.dev/api?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false"/>
+
+</td>
+
+<td width="40%">
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&layout=compact&langs_count=8"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
