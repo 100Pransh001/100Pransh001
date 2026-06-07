@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=100Pransh001&show_icons=true&theme=github_dark_dimmed" height="180em"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=100Pransh001&layout=compact&theme=github_dark_dimmed" height="180em"/>
+  <img src="hhttps://github-readme-stats.shion.dev/api/top-langs/?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180em"/>
 </p>
 
 <p align="center">
