@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=100Pransh001&icon=5&color=8)](https://visitcount.itsvg.in)
+[![Visits Badge](https://komarev.com/ghpvc/?username=100Pransh001&style=for-the-badge)](https://github.com/100Pransh001)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
