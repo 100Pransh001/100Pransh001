@@ -44,9 +44,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=100Pransh001&theme=github_dark_dimmed&hide_border=false" />
-
-<br><br>
+<img width="95%" src="https://streak-stats.demolab.com/?user=100Pransh001&theme=github_dark_dimmed&hide_border=false" />
 
 <img width="54%" align="top"
 src="https://github-readme-stats.shion.dev/api?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false" />
