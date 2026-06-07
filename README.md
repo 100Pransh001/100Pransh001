@@ -42,19 +42,14 @@ Here are some ideas to get you started:
 
 📊 GitHub Stats:
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=100Pransh001&theme=github-dark-blue&hide_border=false&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=100Pransh001&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&border_radius=10" />
+</p>
 
-<img width="80%" src="https://streak-stats.demolab.com/?user=100Pransh001&theme=github_dark_dimmed&hide_border=false" />
-
-<br>
-
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=100Pransh001&theme=github_dark" />
-
-<br>
-
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=100Pransh001&layout=donut&theme=github_dark_dimmed&hide_border=true" />
-
-</div>
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=100Pransh001&theme=github_dark&hide_border=false&layout=compact&langs_count=8&border_radius=10" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=100Pransh001&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
