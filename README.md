@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=100Pransh001&theme=github_dark_dimmed&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=100Pransh001&theme=github-dark-blue" />
 </p>
 
 ## 🏆 GitHub Trophies
