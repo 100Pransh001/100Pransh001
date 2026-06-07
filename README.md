@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <details open>
-<summary><b>💻 Technical Skills</b></summary>
+<b>💻 Technical Skills</b>
 <br>
 | Category | Skills |
 |----------|--------|
