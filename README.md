@@ -40,12 +40,13 @@ Here are some ideas to get you started:
 | **Version Control** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
 
 
-# 📊 GitHub Stats:
+📊 GitHub Stats:
 
+<p align = "center">
 ![](https://streak-stats.demolab.com/?user=100Pransh001&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=100Pransh001&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
