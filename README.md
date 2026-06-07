@@ -42,13 +42,13 @@ Here are some ideas to get you started:
 
 📊 GitHub Stats:
 
-<div align="center">
+<div align="left">
 
-<img width="82%" src="https://streak-stats.demolab.com/?user=100Pransh001&theme=github_dark_dimmed&hide_border=false" />
+<img width="48%" src="https://github-readme-stats.shion.dev/api?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false" />
 
 <br>
 
-<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=100Pransh001&theme=github_dark" />
+<img width="32%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&layout=compact&langs_count=8" />
 
 </div>
 
