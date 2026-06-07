@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <img
     src="https://github-readme-stats.shion.dev/api?username=100Pransh001&show_icons=true&theme=github_dark_dimmed"
     height="200"
-    width="500"
+    width="400"
   />
 
   <img
