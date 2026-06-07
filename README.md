@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&card_width=1000" />
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=100Pransh001&layout=donut&theme=github_dark_dimmed&hide_border=true" />
 
 </div>
 
