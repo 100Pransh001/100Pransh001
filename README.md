@@ -51,11 +51,6 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=100Pransh001&theme=github-dark-blue" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=100Pransh001&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://komarev.com/ghpvc/?username=100Pransh001&icon=5&color=8)](https://visitcount.itsvg.in)
