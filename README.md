@@ -2,7 +2,7 @@
 <h3 align="center">Python · SQL · Power BI · Tableau</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/pransh-taank-03968b273/" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/pransh-taank-03968b273" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:100pransh001@gmail.com">
