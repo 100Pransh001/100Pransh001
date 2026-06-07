@@ -42,17 +42,9 @@ Here are some ideas to get you started:
 
 📊 GitHub Stats:
 
-<div align="center">
-
-<img width="95%" src="https://streak-stats.demolab.com/?user=100Pransh001&theme=github_dark_dimmed&hide_border=false" />
-
-<img width="54%" align="top"
-src="https://github-readme-stats.shion.dev/api?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false" />
-
-<img width="41%" align="top"
-src="https://github-readme-stats.shion.dev/api/top-langs/?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-
-</div>
+![](https://github-readme-stats.shion.dev/api?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=100Pransh001&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=100Pransh001&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
