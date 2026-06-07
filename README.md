@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=100Pransh001&theme=github-dark-blue&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false" />
 </p>
 
 ## 🏆 GitHub Trophies
