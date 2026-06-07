@@ -44,13 +44,11 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img width="85%" src="https://streak-stats.demolab.com/?user=100Pransh001&theme=github_dark_dimmed&hide_border=false" />
+<img width="82%" src="https://streak-stats.demolab.com/?user=100Pransh001&theme=github_dark_dimmed&hide_border=false" />
 
 <br>
 
-<img width="52%" src="https://github-readme-stats.shion.dev/api?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false" />
-
-<img width="33%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&layout=compact&langs_count=10" />
+<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=100Pransh001&theme=github_dark" />
 
 </div>
 
