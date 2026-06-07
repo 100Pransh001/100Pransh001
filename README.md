@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<details open>
-<b>💻 Technical Skills</b>
-<br>
+💻 Technical Skills
+
 | Category | Skills |
 |----------|--------|
 | **Languages** | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
@@ -40,7 +39,6 @@ Here are some ideas to get you started:
 | **Documentation** | ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
 
-</details>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)<br/>
