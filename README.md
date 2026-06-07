@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<details open>
 <summary><b>💻 Technical Skills</b></summary>
 <br>
 | Category | Skills |
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 | **Documentation** | ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
 
-
+</details>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=100Pransh001&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)<br/>
