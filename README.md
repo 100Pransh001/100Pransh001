@@ -2,8 +2,8 @@
 <h3 align="center">Python · SQL · Power BI · Tableau</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gunjan-agarwal-55321b2b0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/pransh-taank-03968b273/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://public.tableau.com/app/profile/gunjan.agarwal7499" target="_blank">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
