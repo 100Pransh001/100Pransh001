@@ -11,20 +11,15 @@
 </p>
 
 
-<!--
-**100Pransh001/100Pransh001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋🏻‍♂️About Me
 
-Here are some ideas to get you started:
+- 📍 Based in Delhi, India
+- 🎯 Seeking Data Analyst roles
+- 🔍 I turn messy data into actionable business decisions
+- 🛠️ Building end-to-end analytics projects with Python, SQL, Power BI and Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
 💻 Technical Skills
 
 | Category | Skills |
