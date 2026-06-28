@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 | **Version Control** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
 
 
-📊 GitHub Stats:
+<!--📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=100Pransh001&show_icons=true&theme=github_dark_dimmed" height="180em"/>
@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=100Pransh001&theme=github-dark-blue" />
 </p>
-
 
 ---
 [![Visits Badge](https://komarev.com/ghpvc/?username=100Pransh001&style=for-the-badge)](https://github.com/100Pransh001)
